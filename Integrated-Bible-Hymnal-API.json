@@ -8,7 +8,12 @@
     "version": "1.0",
     "description": "This is under construction",
     "contact": {
-      "name": "Masaru Kitajima"
+      "name": "Masaru Kitajima",
+      "url": "https://github.com/Integrated-Bible-System/bfxref/issues",
+      "email": "thirstytraveler@mac.com"
+    },
+    "license": {
+      "name": "GPL 3.0"
     }
   },
   "servers": [
